@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388230288134",
+    "project_id": "vintage-3745d",
+    "storage_bucket": "vintage-3745d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388230288134:android:da52c9d2411c3012124487",
+        "android_client_info": {
+          "package_name": "com.example.vintage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388230288134-adp6sf2sh5cdd7h7kn3rroqjq5csshqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLdkt5ESU841rgN1YO30BndEAuLJn3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388230288134-adp6sf2sh5cdd7h7kn3rroqjq5csshqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
